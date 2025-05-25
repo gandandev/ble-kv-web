@@ -1,6 +1,6 @@
 # ble-kv (web)
 
-> *🚧 Under development!*
+> _🚧 Under development!_
 
 > [!NOTE]
 > This is the web/browser component of ble-kv, available as an npm package.
