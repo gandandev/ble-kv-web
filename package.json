@@ -49,16 +49,15 @@
     "prepublishOnly": "pnpm run check && pnpm run build"
   },
   "devDependencies": {
+    "@eslint/js": "9.27.0",
     "@types/node": "^22.10.5",
     "@typescript-eslint/eslint-plugin": "^8.20.0",
     "@typescript-eslint/parser": "^8.20.0",
     "eslint": "^9.18.0",
-    "@eslint/js": "9.27.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.2.2",
     "prettier": "^3.4.2",
     "rimraf": "^6.0.1",
     "typescript": "^5.7.3"
-  },
-  "dependencies": {}
+  }
 }
